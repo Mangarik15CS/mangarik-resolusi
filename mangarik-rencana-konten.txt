@@ -4,6 +4,7 @@ Rencana Konten Mang Arik
   * ES6
   * Framework Javascript
      ^ Vue
+     ^ Reatct JS
 - Struktur Data Dasar Atau Fundamnetal
 - PHP Framework
  * Laravel
