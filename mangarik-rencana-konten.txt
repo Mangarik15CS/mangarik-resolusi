@@ -1,0 +1,8 @@
+Rencana Konten Mang Arik
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP Framework
+- Interview
+- Video Vlog
