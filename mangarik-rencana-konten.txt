@@ -3,9 +3,11 @@ Rencana Konten Mang Arik
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Angolar
-    ^ React JS
+     ^ Vue
+     ^ Reatct JS
+- Struktur Data Dasar Atau Fundamnetal
 - PHP Framework
  * Laravel
 - Interview
 - Video Vlog
+- Python
